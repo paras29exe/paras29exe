@@ -8,8 +8,8 @@
 
 ## 🛠️ Skills and Technologies
 
-<div >
-  <table>
+<div width="100%">
+  <table >
     <tr>
       <td>
         <div align="center">
@@ -71,7 +71,7 @@
         </div>
       </td>
     </tr>
- <img src="https://cdn.pixabay.com/photo/2024/02/06/09/36/laptop-8556518_1280.png" align="right" alt="Laptop" width="40%"/> <!-- cartoon png -->
+ <img src="https://cdn.pixabay.com/photo/2024/02/06/09/36/laptop-8556518_1280.png" align="right" alt="Laptop" width="38%"/> <!-- cartoon png -->
   </table>
 </div>
 
@@ -89,7 +89,9 @@
 📫 DM me on Instagram to connect : @paras404exe
 
 ##
+
 <br>
+
 <table>
   <tr>
     <td width="50%" valign="top">
