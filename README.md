@@ -119,7 +119,9 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+ <a href="mailto:dimplesaini5252@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://twitter.com/yourprofile"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+<a href="https://www.instagram.com/paras404exe"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
+
 
