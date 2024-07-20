@@ -35,7 +35,12 @@
     <tr>
       <td>
         <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="Vite" width="55" height="55"/><br>Vite
+          <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/><br>Redux
+        </div>
+      </td>
+      <td>
+        <div align="center">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/><br>TypeScript
         </div>
       </td>
       <td>
@@ -48,13 +53,18 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/><br>Mongoose
         </div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div align="center">
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/><br>Git
         </div>
       </td>
-    </tr>
-    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.icons8.com/3d-fluency/55/github.png" alt="github" width="55" height="55"/><br>Github
+        </div>
+      </td>
       <td>
         <div align="center">
           <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/><br>HTML5
@@ -65,13 +75,15 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/><br>CSS3
         </div>
       </td>
+    </tr>
+    <tr>
       <td>
         <div align="center">
           <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/><br>VS Code
         </div>
       </td>
     </tr>
- <img src="https://cdn.pixabay.com/photo/2024/02/06/09/36/laptop-8556518_1280.png" align="right" alt="Laptop" width="38%"/> <!-- cartoon png -->
+ <img src="https://cdn.pixabay.com/photo/2024/02/06/09/36/laptop-8556518_1280.png" align="right" alt="Laptop" width="40%"/> <!-- cartoon png -->
   </table>
 </div>
 
