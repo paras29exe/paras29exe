@@ -72,7 +72,7 @@
 
 📚 Currently studying at Chandigarh University, where I am honing my skills and expanding my knowledge in field of tech.
 
-📫 DM me on Instagram to connect : @paras404exe
+📫 DM me on Instagram to connect : <a href="https://www.instagram.com/paras404exe">@paras404exe </a>
 
 ##
 
