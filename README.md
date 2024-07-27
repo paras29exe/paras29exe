@@ -6,90 +6,64 @@
 <h4 align="center" >Innovative JavaScript Developer from India, Bringing Ideas to Life! ✨</h4> 
 <br>
 
-## 🛠️ Skills and Technologies
+# 🛠️ Skills and Technologies
 
-<div width="100%">
-  <table >
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/><br>JavaScript
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/><br>React
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" title="Express" alt="Express" width="55" height="55"/><br>Express
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="Node.js" alt="Node.js" width="55" height="55"/><br>Node.js
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="55" height="55"/><br>Redux
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="55" height="55"/><br>TypeScript
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="55" height="55"/><br>MongoDB
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="55" height="55"/><br>Mongoose
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/><br>Git
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://img.icons8.com/3d-fluency/55/github.png" alt="github" width="55" height="55"/><br>Github
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/><br>HTML5
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/><br>CSS3
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/><br>VS Code
-        </div>
-      </td>
-    </tr>
- <img src="https://cdn.pixabay.com/photo/2024/02/06/09/36/laptop-8556518_1280.png" align="right" alt="Laptop" width="40%"/> <!-- cartoon png -->
-  </table>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" title="Express" alt="Express" width="50" height="50"/><br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="Node.js" alt="Node.js" width="50" height="50"/><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/><br>Redux
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/><br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose" width="50" height="50"/><br>Mongoose
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/><br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/3d-fluency/55/github.png" alt="Github" width="50" height="50"/><br>Github
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/><br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/><br>CSS3
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/><br>VS Code
+    </td>
+  </tr>
+</table>
+
 
 <br>
 
-## More About Me
+# More About Me
 🎓 I am a passionate developer with a keen interest in JavaScript and web development.
 
 🌱 I’m currently learning advanced backend development and exploring new technologies.
