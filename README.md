@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="50" height="50"/><br>Redis
+      <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.png" title="SQL" alt="SQL" width="50" height="50"/><br>SQL
     </td>
     <td align="center">
       <img src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1698065173920x554535889313890300%2F2182976911536207307-512.png?w=&h=&auto=compress&dpr=1&fit=max" title="Cloudinary" alt="Cloudinary" width="50" height=""/><br>Cloudinary
