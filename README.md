@@ -76,7 +76,9 @@
 # More About Me
 🎓 I am a passionate developer with a keen interest in JavaScript and web development.
 
-🌱 I’m currently learning advanced backend development and exploring new technologies.
+🌱 Proficient in building RESTful APIs and scalable, optimized backends.
+
+☁️ Skilled in querying complex pipelines in MongoDB, optimizing performance, and handling large datasets with ease.
 
 💬 Ask me about JavaScript, React, Node.js, MongoDB, and anything tech-related!
 
