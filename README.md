@@ -80,9 +80,7 @@
 
 ☁️ Skilled in querying complex pipelines in MongoDB, optimizing performance, and handling large datasets with ease.
 
-💬 Ask me about JavaScript, React, Node.js, MongoDB, and anything tech-related!
-
-📚 Currently studying at Chandigarh University, where I am honing my skills and expanding my knowledge in field of tech.
+📚 Currently studying at Chandigarh group of colleges, where I am honing my skills and expanding my knowledge in field of tech.
 
 📫 DM me on Instagram to connect : <a href="https://www.instagram.com/paras404.exe">@paras404.exe </a>
 
