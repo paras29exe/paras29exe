@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=paras29exe&color=blue)
 <h1 align="center">
   Hi there, I'm Paras Saini 
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
