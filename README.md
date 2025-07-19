@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Paras Saini <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center">Hi there, I'm Paras <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">💻 Full Stack Developer | 🤖 Exploring GenAI | 🧩 DSA Enthusiast | 🌍 India</h3>
 
 <p align="center">
