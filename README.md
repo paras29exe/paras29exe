@@ -12,7 +12,7 @@
 - 🛠️ **MERN Stack Developer** with a passion for scalable and performant apps
 - 🤖 Exploring **Generative AI, LLMs, Vector Databases** and their integration into full‑stack apps
 - 📚 Strong in **Data Structures and Algorithms** for writing clean & efficient code
-- 📫 DM me on Instagram: [@paras404.exe](https://www.instagram.com/paras404.exe)
+- 📫 DM me on Linkedin: [@paras29exe](https://www.linkedin.com/in/paras29exe)
 
 ---
 
